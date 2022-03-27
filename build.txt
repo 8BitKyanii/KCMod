@@ -1,0 +1,3 @@
+displayName = Kyantis & Colen's Mod
+author = 8-Bit Kyanii
+version = 0.1
